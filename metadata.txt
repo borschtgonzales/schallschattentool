@@ -1,0 +1,25 @@
+;mandatory
+
+[general]
+name=SchallSchattenRasterAutomatisierung
+email=lucien.richter@eef.de
+author=Lucien Richter
+qgisMinimumVersion=3.40.7
+description=Ein Plugin zum automatischen Erstellen von Schall- und Schattenrastern um Windkraftanlagen.
+about=Das Programm erstellt auf Basis von Punktdaten zu den Standorten und einem DSM ein Rastermodell, sowie ein
+    Datenblatt mit allen wichtigen Teilrechnungen.
+version=0.1
+repository=
+;end mandatory
+
+;optional
+category=raster
+changelog=None
+
+;Tags
+tags=
+
+icon=
+experimental=True
+
+plugin_dependencies=

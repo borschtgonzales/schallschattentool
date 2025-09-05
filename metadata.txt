@@ -9,7 +9,7 @@ description=Ein Plugin zum automatischen Erstellen von Schall- und Schattenraste
 about=Das Programm erstellt auf Basis von Punktdaten zu den Standorten und einem DSM ein Rastermodell, sowie ein
     Datenblatt mit allen wichtigen Teilrechnungen.
 version=0.1
-repository=
+repository=https://github.com/borschtgonzales/schallschattentool/
 ;end mandatory
 
 ;optional
@@ -23,3 +23,4 @@ icon=
 experimental=True
 
 plugin_dependencies=
+

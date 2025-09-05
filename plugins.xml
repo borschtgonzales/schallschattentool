@@ -1,7 +1,8 @@
 <plugins>
     <pyqgis_plugin name="Schall-Schatten-Tool" version="0.1">
         <qgis_minimum_version>3.40.7</qgis_minimum_version>
-            <download_url>borschtgonzales.github.io/windpark_toolkit.zip</download_url>
+            <download_url>https://github.com/borschtgonzales/schallschattentool/blob/main/windpark_toolkit.zip</download_url>
     </pyqgis_plugin>
 </plugins>
+
 
